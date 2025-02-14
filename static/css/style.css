@@ -78,7 +78,7 @@ a:hover {
 	width: 910px;
 	height: 60px;
 	margin: 0 auto;
-	background: url(/static/img/img01.jpg) no-repeat left top;
+	background: url(../img/img01.jpg) no-repeat left top;
 }
 
 /* Logo */
@@ -154,7 +154,7 @@ a:hover {
 	height: 41px;
 	margin: 0 auto;
 	padding: 0;
-	background: url(/static/img/img02.jpg) no-repeat left top;
+	background: url(../img/img02.jpg) no-repeat left top;
 }
 
 #menu ul {
@@ -193,7 +193,7 @@ a:hover {
 #page {
 	width: 910px;
 	margin: 0 auto;
-	background: url(/static/img/img03.jpg) no-repeat left top;
+	background: url(../img/img03.jpg) no-repeat left top;
 }
 
 /* Content */
@@ -361,8 +361,8 @@ div#content #wavelet-details dd { margin-bottom: 0.4em; }
 div#content #wavelet-details div#wavelet-properties dl { clear: both; }
 div#content #wavelet-details div#wavelet-properties dl dt { font-size: 1.2em; font-weight: bold; }
 div#content #wavelet-details div#wavelet-properties dl dd { font-size: 1.2em; margin-left: 1em; }
-div#content #wavelet-details div#wavelet-properties dl dd.yes { background: url(/static/img/yes_16.png) 0px 4px no-repeat; padding-left: 18px; }
-div#content #wavelet-details div#wavelet-properties dl dd.no { background: url(/static/img/no_16.png) 0px 0.2em no-repeat; padding-left: 18px; }
+div#content #wavelet-details div#wavelet-properties dl dd.yes { background: url(../img/yes_16.png) 0px 4px no-repeat; padding-left: 18px; }
+div#content #wavelet-details div#wavelet-properties dl dd.no { background: url(../img/no_16.png) 0px 0.2em no-repeat; padding-left: 18px; }
 
 div#content #wavelet-details div#function-charts ul { width: 100%; clear: both; display: block; }
 div#content #wavelet-details div#function-charts ul li { float: left; display: block; width: 50%; padding-bottom: 15px;}
